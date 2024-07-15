@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About me
 
-**I'm a student majoring in AI and CS 👨‍🎓**
+**I'm a student majoring in CS 👨‍🎓**
 
 - 2024.09-*Present* Xi'an Jiaotong University China MA.Eng.
 - 2020.09-2024.06 Xi'an Jiaotong University China B.Eng.

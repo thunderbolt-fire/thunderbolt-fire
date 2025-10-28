@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 ### <img src="https://img.icons8.com/dusk/64/null/program.png" height="17" /> Languages and Frameworks
 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,html,js,css,flask,vue,md,latex&theme=light&perline=20" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,java,vue,md,latex&theme=light&perline=20" />
 </p>
 
 ### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" height="17" /> Tools and Environments
 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=arduino,docker,git,github,linux,matlab,obsidian,nodejs,&theme=light&perline=20" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,matlab,obsidian,nodejs,langchain,&theme=light&perline=20" />
 </p>
 
 

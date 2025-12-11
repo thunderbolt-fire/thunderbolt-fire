@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats-six-eta-79.vercel.app/api/top-langs/?username=thunderbolt-fire&theme=default&layout=compact&hide_border=true&langs_count=5&hide=makefile,cmake" height="170" />
 </p>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=thunderbolt-fire&theme=flat&column=-1&no-frame=true" width="860"/>
+  <img src="https://stable-github-profile-trophy.vercel.app/?username=thunderbolt-fire&theme=flat&column=-1&no-frame=true" width="860"/>
 </p>
 
 ## <img src="https://img.icons8.com/dusk/64/null/development-skill.png" height="20" /> My Skills

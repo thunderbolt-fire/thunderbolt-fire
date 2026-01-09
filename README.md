@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 - 2024.09-*Present* Xi'an Jiaotong University China MA.Eng.
 - 2020.09-2024.06 Xi'an Jiaotong University China B.Eng.
+- My research direction is RAG and Agent.
 - 💬 Ask me about what you want to ask.
 
 
